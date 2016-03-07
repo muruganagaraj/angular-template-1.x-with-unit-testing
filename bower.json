@@ -1,0 +1,29 @@
+{
+  "name": "angular-template",
+  "version": "1.0.0",
+  "homepage": "https://github.com/JeevanJames/angular-typescript-gulp-template",
+  "authors": [
+    "Jeevan James <jeevanjj@yahoo.com>"
+  ],
+  "description": "AngularJS, Typescript and Gulp template for large applications",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "Apache-2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-animate": "~1.5.0",
+    "angular-aria": "~1.5.0",
+    "angular-messages": "~1.5.0",
+    "angular-sanitize": "~1.5.0",
+    "angular-ui-router": "~0.2.18",
+    "jquery": "~2.1.4",
+    "ng-template-core": "^1.0.1-alpha5",
+    "lodash": "^4.6.1"
+  }
+}
